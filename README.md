@@ -30,12 +30,15 @@
 #### Процесс реализации
 ------------------------
 #### Интерфейс
+Интерфейс авторизащии для преподавателей
 ![Интерфейс авторизащии для преподавателей](https://github.com/Sa2ap/Course_Work/blob/main/k1.PNG)
+Основной интерфейс для студентов
 ![Основной интерфейс для студентов ](https://github.com/Sa2ap/Course_Work/blob/main/k2.PNG)
-
+Просмотр оценок групп
 ![Просмотр оценок групп ](https://github.com/Sa2ap/Course_Work/blob/main/k3.PNG)
+Просмотр оценок групп
 ![Просмотр оценок групп ](https://github.com/Sa2ap/Course_Work/blob/main/k4.PNG)
-
+Выставление оценок
 ![Выставление оценок ](https://github.com/Sa2ap/Course_Work/blob/main/k5.PNG)
 
 #### 2. Пользовательский сценарий работы
