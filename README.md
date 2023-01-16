@@ -29,8 +29,8 @@
 
 #### Процесс реализации
 ------------------------
-#### [1. Интерфейс авторизащии для преподавателей](https://github.com/Sa2ap/Course_Work/blob/main/k1.PNG)
-
+#### Интерфейс
+![Интерфейс авторизащии для преподавателей](https://github.com/Sa2ap/Course_Work/blob/main/k1.PNG)
 ![Основной интерфейс для студентов ](https://github.com/Sa2ap/Course_Work/blob/main/k2.PNG)
 
 ![Просмотр оценок групп ](https://github.com/Sa2ap/Course_Work/blob/main/k3.PNG)
