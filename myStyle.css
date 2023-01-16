@@ -1,0 +1,43 @@
+#autorisation {
+    width:20%;
+    height:20%;
+
+    float: left;
+}
+.form-horizontal {
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+.form-horizontal h4 {
+    padding-left: 100px;
+}
+
+#teacher_name {
+}
+.teacher {
+    float: right;
+    width: 80%;
+    height:800px;
+}
+#teacherID {
+    display: none;
+}
+.general {
+   padding: 10px;
+}
+.control {
+    display: none;
+    float: left;
+padding-top: 20px;
+    width: 20%;
+    height: 765px;
+}
+.control button {
+    float: left;
+    margin-top: 10px;
+    width: 150px;
+}
+.student_control {
+    display: none;
+}
